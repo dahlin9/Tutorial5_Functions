@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\g012251o\\source\\repos\\programmingFundamentals\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{77D57EC0-83FC-4048-8CC7-FAB96DF55089}|Tutorial10_Debugging\\Tutorial10_Debugging.vcxproj|C:\\Users\\g012251o\\source\\repos\\programmingFundamentals\\Tutorial10_Debugging\\Tutorial10_Debugging.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{77D57EC0-83FC-4048-8CC7-FAB96DF55089}|Tutorial10_Debugging\\Tutorial10_Debugging.vcxproj|solutionrelative:Tutorial10_Debugging\\Tutorial10_Debugging.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\g012251o\\source\\repos\\programmingFundamentals\\Tutorial10_Debugging\\Tutorial10_Debugging.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Tutorial10_Debugging\\Tutorial10_Debugging.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,7 +24,7 @@
               "RelativeDocumentMoniker": "Tutorial10_Debugging\\Tutorial10_Debugging.cpp",
               "ToolTip": "C:\\Users\\g012251o\\source\\repos\\programmingFundamentals\\Tutorial10_Debugging\\Tutorial10_Debugging.cpp",
               "RelativeToolTip": "Tutorial10_Debugging\\Tutorial10_Debugging.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAQAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-10-31T15:24:57.944Z",
               "EditorCaption": ""
