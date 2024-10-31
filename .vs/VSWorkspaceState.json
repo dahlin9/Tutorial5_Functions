@@ -1,8 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Tutorial7_Arrays"
+    "\\Tutorial10_Debugging",
+    "\\Tutorial7_Arrays",
+    "\\Tutorial8_Pointers",
+    "\\Tutorial9_BitwiseOperators"
   ],
-  "SelectedNode": "\\Tutorial7_Arrays\\Tutorial7_Arrays.vcxproj",
+  "SelectedNode": "\\Tutorial10_Debugging\\Tutorial10_Debugging.cpp",
   "PreviewInSolutionExplorer": false
 }
