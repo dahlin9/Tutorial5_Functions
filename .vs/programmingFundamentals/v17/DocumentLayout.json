@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\g012251o\\source\\repos\\programmingFundamentals\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\g012251o\\source\\repos\\programmingFundamentals\\Tutorial10_Debugging\\Tutorial10_Debugging.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Tutorial10_Debugging\\Tutorial10_Debugging.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{F7FEFD5C-A21D-41DB-9FB6-49DB4758C678}|Tutorial11_Classes\\Tutorial11_Classes.vcxproj|C:\\Users\\g012251o\\source\\repos\\programmingFundamentals\\Tutorial11_Classes\\Tutorial11_Classes.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F7FEFD5C-A21D-41DB-9FB6-49DB4758C678}|Tutorial11_Classes\\Tutorial11_Classes.vcxproj|solutionrelative:Tutorial11_Classes\\Tutorial11_Classes.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Tutorial10_Debugging.cpp",
-              "DocumentMoniker": "C:\\Users\\g012251o\\source\\repos\\programmingFundamentals\\Tutorial10_Debugging\\Tutorial10_Debugging.cpp",
-              "RelativeDocumentMoniker": "Tutorial10_Debugging\\Tutorial10_Debugging.cpp",
-              "ToolTip": "C:\\Users\\g012251o\\source\\repos\\programmingFundamentals\\Tutorial10_Debugging\\Tutorial10_Debugging.cpp",
-              "RelativeToolTip": "Tutorial10_Debugging\\Tutorial10_Debugging.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAtAAAA",
+              "Title": "Tutorial11_Classes.cpp",
+              "DocumentMoniker": "C:\\Users\\g012251o\\source\\repos\\programmingFundamentals\\Tutorial11_Classes\\Tutorial11_Classes.cpp",
+              "RelativeDocumentMoniker": "Tutorial11_Classes\\Tutorial11_Classes.cpp",
+              "ToolTip": "C:\\Users\\g012251o\\source\\repos\\programmingFundamentals\\Tutorial11_Classes\\Tutorial11_Classes.cpp",
+              "RelativeToolTip": "Tutorial11_Classes\\Tutorial11_Classes.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-31T15:24:57.944Z",
+              "WhenOpened": "2024-11-05T15:42:29.278Z",
               "EditorCaption": ""
             }
           ]
